@@ -3,7 +3,7 @@
         <div class="row">
           <div class="col-md-4">
             <h3>About DreamMaker</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro consectetur ut hic ipsum et veritatis corrupti. Itaque eius soluta optio dolorum temporibus in, atque, quos fugit sunt sit quaerat dicta.</p>
+             <p>We believe with our dynamic, competent and dedicated team members, touching and improving the lives of so many youths will be achieved.</p>
           </div>
 
           <div class="col-md-3 ml-auto">
@@ -18,7 +18,7 @@
 
           <div class="col-md-4">
             <h3>Subscribe</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt incidunt iure iusto architecto? Numquam, natus?</p>
+            <p>Never miss out on our newsletter...</p>
             <form action="subscribe" class="footer-subscribe" method='post'>
               @csrf()
               <div class="d-flex mb-5">

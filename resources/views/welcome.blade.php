@@ -8,8 +8,8 @@
             <div class="col-12">
               <div class="row align-items-center">
                 <div class="col-lg-6 mb-4">
-                  <h1  data-aos="fade-up" data-aos-delay="100">Learn From The Expert</h1>
-                  <p class="mb-4"  data-aos="fade-up" data-aos-delay="200">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime ipsa nulla sed quis rerum amet natus quas necessitatibus.</p>
+                  <h1  data-aos="fade-up" data-aos-delay="100">Become the best version of YOURSELF</h1>
+                  <p class="mb-4"  data-aos="fade-up" data-aos-delay="200">With Dreammaker Talent Hunt Show</p>
                   <p data-aos="" data-aos-delay="300"><button data-toggle="modal" data-target="#modal-default" class="btn btn-primary py-3 px-5 btn-pill">Join Now</button></p>
                 </div>
 
@@ -46,19 +46,23 @@
       <div class="container">
         <div class="row mb-5 justify-content-center">
           <div class="col-lg-7 text-center"  data-aos="fade-up" data-aos-delay="">
-            <h2 class="section-title">Our Programs</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam repellat aut neque! Doloribus sunt non aut reiciendis, vel recusandae obcaecati hic dicta repudiandae in quas quibusdam ullam, illum sed veniam!</p>
+            <h2 class="section-title">Who  we are</h2>
+            <p>
+            Dream Maker is a non-governmental and empowerment Organization borne out of the need to assist talented 
+            and gifted youths in Nigeria and other African countries, to be able to actualise their dreams and maximise on the  their potentials in different field of 
+            endeavours e.g Education, Vocational training, Entertainment etc, through our various empowerment programmes.
+            </p>
           </div>
         </div>
         <div class="row mb-5 align-items-center">
           <div class="col-lg-7 mb-5" data-aos="fade-up" data-aos-delay="100">
-            <img src="{{asset('frontend/images/undraw_youtube_tutorial.svg')}}" alt="Image" class="img-fluid">
+            <img src="{{asset('frontend/images/d2.jpg')}}" alt="Image" class="img-fluid">
           </div>
           <div class="col-lg-4 ml-auto" data-aos="fade-up" data-aos-delay="200">
-            <h2 class="text-black mb-4">We Are Excellent In Education</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem maxime nam porro possimus fugiat quo molestiae illo.</p>
+            <h2 class="text-black mb-4">We will help you reach the stars.</h2>
+            <p class="mb-4">Without doubt, Africans are great people and that is why we are seeking to bring out the best to showcase Africans to the world. </p>
 
-            <div class="d-flex align-items-center custom-icon-wrap mb-3">
+            <!-- <div class="d-flex align-items-center custom-icon-wrap mb-3">
               <span class="custom-icon-inner mr-3"><span class="icon icon-graduation-cap"></span></span>
               <div><h3 class="m-0">22,931 Yearly Graduates</h3></div>
             </div>
@@ -66,41 +70,33 @@
             <div class="d-flex align-items-center custom-icon-wrap">
               <span class="custom-icon-inner mr-3"><span class="icon icon-university"></span></span>
               <div><h3 class="m-0">150 Universities Worldwide</h3></div>
-            </div>
+            </div> -->
 
           </div>
         </div>
 
         <div class="row mb-5 align-items-center">
           <div class="col-lg-7 mb-5 order-1 order-lg-2" data-aos="fade-up" data-aos-delay="100">
-            <img src="{{asset('frontend/images/undraw_teaching.svg')}}" alt="Image" class="img-fluid">
+            <img src="{{asset('frontend/images/d3.jpg')}}" alt="Image" class="img-fluid">
           </div>
           <div class="col-lg-4 mr-auto order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
             <h2 class="text-black mb-4">Strive for Excellent</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem maxime nam porro possimus fugiat quo molestiae illo.</p>
-
-            <div class="d-flex align-items-center custom-icon-wrap mb-3">
-              <span class="custom-icon-inner mr-3"><span class="icon icon-graduation-cap"></span></span>
-              <div><h3 class="m-0">22,931 Yearly Graduates</h3></div>
-            </div>
-
-            <div class="d-flex align-items-center custom-icon-wrap">
-              <span class="custom-icon-inner mr-3"><span class="icon icon-university"></span></span>
-              <div><h3 class="m-0">150 Universities Worldwide</h3></div>
-            </div>
+            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Rem maxime nam porro possimus fugiat quo molestiae illo.</p>
 
           </div>
         </div>
 
         <div class="row mb-5 align-items-center">
           <div class="col-lg-7 mb-5" data-aos="fade-up" data-aos-delay="100">
-            <img src="{{asset('frontend/images/undraw_teacher.svg')}}" alt="Image" class="img-fluid">
+            <img src="{{asset('frontend/images/bg_4.jpg')}}" alt="Image" class="img-fluid">
           </div>
           <div class="col-lg-4 ml-auto" data-aos="fade-up" data-aos-delay="200">
             <h2 class="text-black mb-4">Education is life</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem maxime nam porro possimus fugiat quo molestiae illo.</p>
+            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Rem maxime nam porro possimus fugiat quo molestiae illo.</p>
 
-            <div class="d-flex align-items-center custom-icon-wrap mb-3">
+            <!-- <div class="d-flex align-items-center custom-icon-wrap mb-3">
               <span class="custom-icon-inner mr-3"><span class="icon icon-graduation-cap"></span></span>
               <div><h3 class="m-0">22,931 Yearly Graduates</h3></div>
             </div>
@@ -108,7 +104,7 @@
             <div class="d-flex align-items-center custom-icon-wrap">
               <span class="custom-icon-inner mr-3"><span class="icon icon-university"></span></span>
               <div><h3 class="m-0">150 Universities Worldwide</h3></div>
-            </div>
+            </div> -->
 
           </div>
         </div>
@@ -265,25 +261,25 @@
 
               <div class="d-flex align-items-center custom-icon-wrap custom-icon-light mb-3">
                 <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-graduation-cap"></span></span></div>
-                <div><h3 class="m-0">22,931 Yearly Graduates</h3></div>
+                <div><h3 class="m-0">We have over 14 years experience of working with new faces.</h3></div>
               </div>
 
               <div class="d-flex align-items-center custom-icon-wrap custom-icon-light mb-3">
                 <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-university"></span></span></div>
-                <div><h3 class="m-0">150 Universities Worldwide</h3></div>
+                <div><h3 class="m-0">We can offer serious aspiring models a professional photo shoot.</h3></div>
               </div>
 
               <div class="d-flex align-items-center custom-icon-wrap custom-icon-light mb-3">
                 <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-graduation-cap"></span></span></div>
-                <div><h3 class="m-0">Top Professionals in The World</h3></div>
+                <div><h3 class="m-0">We can help you build a professional portfolio - budgets to suit.</h3></div>
               </div>
 
               <div class="d-flex align-items-center custom-icon-wrap custom-icon-light mb-3">
                 <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-university"></span></span></div>
-                <div><h3 class="m-0">Expand Your Knowledge</h3></div>
+                <div><h3 class="m-0">Our support service can advise you until you can stand on your own</h3></div>
               </div>
 
-              <div class="d-flex align-items-center custom-icon-wrap custom-icon-light mb-3">
+              <!-- <div class="d-flex align-items-center custom-icon-wrap custom-icon-light mb-3">
                 <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-graduation-cap"></span></span></div>
                 <div><h3 class="m-0">Best Online Teaching Assistant Courses</h3></div>
               </div>
@@ -291,7 +287,7 @@
               <div class="d-flex align-items-center custom-icon-wrap custom-icon-light">
                 <div class="mr-3"><span class="custom-icon-inner"><span class="icon icon-university"></span></span></div>
                 <div><h3 class="m-0">Best Teachers</h3></div>
-              </div>
+              </div> -->
             </div>
           </div>
           <div class="col-lg-7 align-self-end"  data-aos="fade-left" data-aos-delay="200">

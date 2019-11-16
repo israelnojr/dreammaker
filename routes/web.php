@@ -7,6 +7,7 @@ use App\Http\Controllers\testimonyController;
 
 Route::get('/', 'frontPageController@welcome')->name('welcome');
 Route::get('outreach', 'frontPageController@outreach')->name('outreach');
+Route::get('about', 'frontPageController@about')->name('about');
 Auth::routes();
 
 Route::resource('testimonies', 'testimonyController');

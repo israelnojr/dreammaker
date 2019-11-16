@@ -18,4 +18,9 @@ class frontPageController extends Controller
     {
         return view('outreach');
     }
+
+    public function about()
+    {
+        return view('about');
+    }
 }
